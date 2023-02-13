@@ -1,0 +1,19 @@
+/* nav{
+	z-index: 99999;
+} */
+
+.social-icon{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+.social-icon i{
+	padding: 5px;
+}
+.nav-link{
+	color:#949cb0 !important;
+	cursor:pointer;
+}
+.active{
+	color: #fff !important;
+}
